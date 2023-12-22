@@ -1,0 +1,10 @@
+C:\Users\LENOVO\source\repos\Error Tolerance\obj\Debug\Error Tolerance.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Error Tolerance\obj\Debug\Error_Tolerance.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\Error Tolerance\obj\Debug\Error Tolerance.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\Error Tolerance\obj\Debug\Error Tolerance.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Error Tolerance\bin\Debug\Error Tolerance.exe.config
+C:\Users\LENOVO\source\repos\Error Tolerance\bin\Debug\Error Tolerance.exe
+C:\Users\LENOVO\source\repos\Error Tolerance\bin\Debug\Error Tolerance.pdb
+C:\Users\LENOVO\source\repos\Error Tolerance\obj\Debug\Error_Tolerance.Form1.resources
+C:\Users\LENOVO\source\repos\Error Tolerance\obj\Debug\Error Tolerance.exe
+C:\Users\LENOVO\source\repos\Error Tolerance\obj\Debug\Error Tolerance.pdb
